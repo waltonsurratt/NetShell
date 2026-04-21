@@ -4,6 +4,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>NetShell</Title>
+    <Company>Surratt Solutions</Company>
+    <Authors>Walton Surratt</Authors>
+    <Description>A .NET wrapper for the well-known netsh command-line utility used to configure and monitor network settings.</Description>
+    <Copyright>Copyright ©  2026</Copyright>
   </PropertyGroup>
 
 </Project>
