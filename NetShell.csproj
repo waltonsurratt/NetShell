@@ -8,7 +8,7 @@
     <Company>Surratt Solutions</Company>
     <Authors>Walton Surratt</Authors>
     <Description>A .NET wrapper for the well-known netsh command-line utility used to configure and monitor network settings.</Description>
-    <Copyright>Copyright ©  2026</Copyright>
+    <Copyright>Copyright © 2026 Surratt Solutions</Copyright>
   </PropertyGroup>
 
 </Project>
