@@ -8,7 +8,20 @@
     <Company>Surratt Solutions</Company>
     <Authors>Walton Surratt</Authors>
     <Description>A .NET wrapper for the well-known netsh command-line utility used to configure and monitor network settings.</Description>
-    <Copyright>Copyright © 2026 Surratt Solutions</Copyright>
+    <Copyright>Copyright © 2026 Walton Surratt</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIcon>NetShell_Icon.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="NetShell_Icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
